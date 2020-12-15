@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Yenofer\我最爱的事情\courses\Web程序设计\springboot+freemark+websocket+MySQL实现的在线聊天系统升级版\项目源码\chatonline\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
